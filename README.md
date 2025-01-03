@@ -1,5 +1,5 @@
 # Mc-Crash
-It can crash the server of the Chinese version of Minecraft.
+It can crash the server of the Minecraft:China Edition.
 Make it impossible for players to enter! 
 
 But you have to pay a fee to use it.
